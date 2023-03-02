@@ -4,9 +4,10 @@ This is a project used in the [GraphQL by Example](https://www.udemy.com/course/
 
 It uses Apollo Server with Express, and graphql-request or Apollo Client as the GraphQL client. The application is used to explain queries, mutations, custom object types, authentication, etc.
 
-##Starting the Project with below
+## Starting the Project with below
 
-###For front-end
+### For front-end
+
 Install node node_modules and start
 
 ```
@@ -16,7 +17,8 @@ npm i
 npm start
 ```
 
-###For back-end
+### For back-end
+
 Install node node_modules and start
 
 ```
